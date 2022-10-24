@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @can-guven
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Go Lang
+- 💞️ I’m looking to collaborate on @codigician
+- 📫 How to reach me caanguven@outlook.com
